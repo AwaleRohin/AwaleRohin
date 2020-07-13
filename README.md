@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-[![HitCount](http://hits.dwyl.com/AwaleRohin/AwaleRohin.svg)](http://hits.dwyl.com/AwaleRohin/AwaleRohin)
+### Hi there 👋 [![HitCount](http://hits.dwyl.com/AwaleRohin/AwaleRohin.svg)](http://hits.dwyl.com/AwaleRohin/AwaleRohin)
 
 
 - 🔭 I’m currently working on multi-vendor eCommerce
